@@ -1,0 +1,29 @@
+{
+  "name": "vue2-tinymcy-editor",
+  "version": "1.0.0",
+  "description": "Vue2-tinymcy-editor is a rich text editor for vue development based on tinymce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zlluGitHub/vue2-tinymcy-editor.git"
+  },
+  "keywords": [
+    "editor",
+    "vue",
+    "vuejs",
+    "tinymcy",
+    "code"
+  ],
+  "author": "zlluGitHub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlluGitHub/vue2-tinymcy-editor/issues"
+  },
+  "homepage": "https://github.com/zlluGitHub/vue2-tinymcy-editor#readme",
+  "dependencies": {
+    "tinymce": "^5.8.1"
+  }
+}
