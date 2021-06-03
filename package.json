@@ -1,6 +1,6 @@
 {
   "name": "vue2-tinymcy-editor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Vue2-tinymcy-editor is a rich text editor for vue development based on tinymce.",
   "main": "index.js",
   "scripts": {

@@ -1,9 +1,9 @@
 # vue2-tinymcy-editor
 
 [![npm version](https://img.shields.io/npm/v/vue2-tinymcy-editor.svg)](https://www.npmjs.com/package/vue2-tinymcy-editor) 
-![tinymce](https://img.shields.io/github/package-json/dependency-version/lpreterite/vue-tinymce/tinymce)
+![tinymce](https://img.shields.io/github/package-json/dependency-version/lpreterite/vue2-tinymcy-editor/tinymce)
 
-`vue2-tinymcy-editor` 是基于 `TinyMCE` 开发的 `Vue` 富文本编辑器组件。可以直接使用这个组件到你的项目中。如发现问题可以提到 issue。
+`vue2-tinymcy-editor` 是基于 `TinyMCE` 开发的 `Vue` 富文本编辑器组件。可以直接使用这个组件到你的项目中。如发现问题可以提到 [issue](https://github.com/zlluGitHub/vue2-tinymcy-editor/issues)。
 ## 预览图
 ![](./assets/demo.png)
 ## 如何使用
@@ -145,6 +145,8 @@ export default {
 
 ## 相关资料
 
-TinyMCE 官方地址：[https://www.tinymce.com/](https://www.tinymce.com/)
-TinyMCE 官方文档：[https://www.tiny.cloud/docs/](https://www.tiny.cloud/docs/)
-TinyMCE 中文文档：[http://tinymce.ax-z.cn/](http://tinymce.ax-z.cn/)
+- TinyMCE 官方地址：[https://www.tinymce.com/](https://www.tinymce.com/)
+
+- TinyMCE 官方文档：[https://www.tiny.cloud/docs/](https://www.tiny.cloud/docs/)
+
+- TinyMCE 中文文档：[http://tinymce.ax-z.cn/](http://tinymce.ax-z.cn/)
